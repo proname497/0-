@@ -1,0 +1,8 @@
+aiogram==2.25.1
+telethon
+pytesseract
+Pillow
+qrcode[pil]
+googletrans==4.0.0-rc1
+requests
+aiohttp==3.9.5
